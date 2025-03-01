@@ -4,7 +4,7 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 ## Rust In General
 1. Rust Book: https://doc.rust-lang.org/book/ [completed 13]
 2. Rustlings: https://github.com/rust-lang/rustlings [completed 18]
-3. Aalto's Rust Course: https://fitech101.aalto.fi/programming-languages/rust/ [completed 7]
+3. Aalto's Rust Course: https://fitech101.aalto.fi/programming-languages/rust/ [completed 9]
 4. Rust By Practice: https://practice.course.rs/
 5. Rust Exercises: https://rust-exercises.com/100-exercises/
 6. Design Patterns: https://rust-unofficial.github.io/patterns/
