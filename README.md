@@ -9,7 +9,7 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 5. Rust Exercises: https://rust-exercises.com/100-exercises/
 6. Design Patterns: https://rust-unofficial.github.io/patterns/
 7. Asynchronous Programming in Rust: https://rust-lang.github.io/async-book/
-8. 
+8. Easy Rust: https://dhghomon.github.io/easy_rust/
 9. Rust By Example: https://doc.rust-lang.org/rust-by-example/
 10. A Gentle Introduction To Rust: https://stevedonovan.github.io/rust-gentle-intro/
 11. Rust Doc: https://doc.rust-lang.org/stable/rustdoc/
@@ -45,8 +45,9 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 2. Logan Smith: https://www.youtube.com/@_noisecode
 3. Jeremy Chone: https://www.youtube.com/@JeremyChone
 4. Trevor Sullivan: https://www.youtube.com/@TrevorSullivan/playlists
-5. Shoaib Jahangir: https://www.youtube.com/@Sohaib_jahangir
-6. Lets Get Rusty: https://www.youtube.com/@letsgetrusty
+5. Mithradates: https://www.youtube.com/@mithradates
+6. Shoaib Jahangir: https://www.youtube.com/@Sohaib_jahangir
+7. Lets Get Rusty: https://www.youtube.com/@letsgetrusty
 
 
 ## Project Tutorials 
