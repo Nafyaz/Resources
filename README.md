@@ -29,6 +29,8 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 25. The Rustonomicon: https://doc.rust-lang.org/stable/nomicon/
 26. Rust Training Slides by Ferrous Systems: https://rust-training.ferrous-systems.com/latest/slides/
 27. Rust Cookbook: https://rust-lang-nursery.github.io/rust-cookbook/
+28. The Little Book of Rust Macros: https://veykril.github.io/tlborm/
+29. Rust Atomics and Locks: https://marabos.nl/atomics/
 
 
 ## Other Collections
@@ -48,6 +50,8 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 5. Mithradates: https://www.youtube.com/@mithradates
 6. Shoaib Jahangir: https://www.youtube.com/@Sohaib_jahangir
 7. Lets Get Rusty: https://www.youtube.com/@letsgetrusty
+8. Brooks Builds (brookzerker): https://www.youtube.com/@BrooksBuilds
+9. Code to the Moon: https://www.youtube.com/@codetothemoon
 
 
 ## Project Tutorials 
@@ -61,7 +65,10 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 
 ## Web
 1. Tokio: https://tokio.rs/tokio/tutorial
-2. Axum: https://masteringbackend.com/posts/axum-framework#complete-axum-overview
+2. ### Axum
+   1. Complete Axum Overview: https://masteringbackend.com/posts/axum-framework#complete-axum-overview
+   2. Introduction to Axum: https://www.youtube.com/playlist?list=PLrmY5pVcnuE-_CP7XZ_44HN-mDrLQV4nS
+   3. Rust Axum Full Course: https://www.youtube.com/watch?v=XZtlD_m59sM
 3. Web Assembly: https://rustwasm.github.io/docs/book/
 4. Zero To Production In Rust (book with actix web)
 5. Programming WebAssembly With Rust (book)
