@@ -70,9 +70,10 @@ Here I am listing all the Rust resources that I found over internet. I am adding
    1. Complete Axum Overview: https://masteringbackend.com/posts/axum-framework#complete-axum-overview
    2. Introduction to Axum: https://www.youtube.com/playlist?list=PLrmY5pVcnuE-_CP7XZ_44HN-mDrLQV4nS
    3. Rust Axum Full Course: https://www.youtube.com/watch?v=XZtlD_m59sM
-3. Web Assembly: https://rustwasm.github.io/docs/book/
-4. Zero To Production In Rust (book with actix web)
-5. Programming WebAssembly With Rust (book)
+3. Quinn: https://quinn-rs.github.io/quinn/networking-introduction.html
+4. Web Assembly: https://rustwasm.github.io/docs/book/
+5. Zero To Production In Rust (book with actix web)
+6. Programming WebAssembly With Rust (book)
 
 
 ## Embedded
