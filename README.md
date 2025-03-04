@@ -31,6 +31,7 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 27. Rust Cookbook: https://rust-lang-nursery.github.io/rust-cookbook/
 28. The Little Book of Rust Macros: https://veykril.github.io/tlborm/
 29. Rust Atomics and Locks: https://marabos.nl/atomics/
+30. Rust Standard Library: https://doc.rust-lang.org/stable/std/
 
 
 ## Other Collections
