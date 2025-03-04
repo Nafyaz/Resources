@@ -52,6 +52,7 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 7. Lets Get Rusty: https://www.youtube.com/@letsgetrusty
 8. Brooks Builds (brookzerker): https://www.youtube.com/@BrooksBuilds
 9. Code to the Moon: https://www.youtube.com/@codetothemoon
+10. Dario: https://www.youtube.com/@dario.lencina
 
 
 ## Project Tutorials 
