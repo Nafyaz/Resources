@@ -66,7 +66,7 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 
 
 ## Web
-1. Tokio: https://tokio.rs/tokio/tutorial
+1. Tokio: https://tokio.rs/tokio/tutorial [completed hello tokio]
 2. ### Axum
    1. Complete Axum Overview: https://masteringbackend.com/posts/axum-framework#complete-axum-overview
    2. Introduction to Axum: https://www.youtube.com/playlist?list=PLrmY5pVcnuE-_CP7XZ_44HN-mDrLQV4nS
@@ -89,5 +89,5 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 
 
 ## Git
-1. Git From Bottom Up: https://jwiegley.github.io/git-from-the-bottom-up/
+1. Git From Bottom Up: https://jwiegley.github.io/git-from-the-bottom-up/ [completed introduction]
 
