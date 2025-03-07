@@ -8,7 +8,8 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 4. Rust By Practice: https://practice.course.rs/
 5. Rust Exercises: https://rust-exercises.com/100-exercises/
 6. Design Patterns: https://rust-unofficial.github.io/patterns/
-7. Asynchronous Programming in Rust: https://rust-lang.github.io/async-book/
+7. Asynchronous Programming in Rust: https://rust-lang.github.io/async-book/ [completed 4]
+   1. Book is incomplete. I think even the chapters that are available needs work.
 8. Easy Rust: https://dhghomon.github.io/easy_rust/
 9. Rust By Example: https://doc.rust-lang.org/rust-by-example/
 10. A Gentle Introduction To Rust: https://stevedonovan.github.io/rust-gentle-intro/
