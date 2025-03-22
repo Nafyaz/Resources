@@ -33,6 +33,8 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 28. The Little Book of Rust Macros: https://veykril.github.io/tlborm/
 29. Rust Atomics and Locks: https://marabos.nl/atomics/
 30. Rust Standard Library: https://doc.rust-lang.org/stable/std/
+31. Advanced Rust Testing: https://rust-exercises.com/advanced-testing/
+32. Rust telemetry workshop: https://rust-exercises.com/telemetry/
 
 
 ## Other Collections
