@@ -2,7 +2,7 @@
 Here I am listing all the Rust resources that I found over internet. I am adding `[...]` to track how much I have completed.
 
 ## Rust In General
-1. Rust Book: https://doc.rust-lang.org/book/ [completed 13]
+1. Rust Book: https://doc.rust-lang.org/book/ [completed 14]
 2. Rustlings: https://github.com/rust-lang/rustlings [completed 18]
 3. Aalto's Rust Course: https://fitech101.aalto.fi/programming-languages/rust/ [completed 9]
 4. Rust By Practice: https://practice.course.rs/
