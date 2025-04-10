@@ -1,7 +1,5 @@
-# Rust-Resources
-Here I am listing all the Rust resources that I found over internet. I am adding `[...]` to track how much I have completed.
-
 ## Rust In General
+
 1. Rust Book: https://doc.rust-lang.org/book/ [completed 14]
 2. Rustlings: https://github.com/rust-lang/rustlings [completed 18]
 3. Aalto's Rust Course: https://fitech101.aalto.fi/programming-languages/rust/ [completed 9]
@@ -36,8 +34,8 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 31. Advanced Rust Testing: https://rust-exercises.com/advanced-testing/
 32. Rust telemetry workshop: https://rust-exercises.com/telemetry/
 
-
 ## Other Collections
+
 1. rust-learning: https://github.com/ctjhoa/rust-learning
 2. Awesome Rust: https://github.com/rust-unofficial/awesome-rust
 3. Learning Rust: https://gist.github.com/noxasaxon/7bf5ebf930e281529161e51cd221cf8a
@@ -45,8 +43,8 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 5. Mainmatter’s rust repos: https://github.com/orgs/mainmatter/repositories?q=rust
 6. Idiomatic Rust: https://github.com/mre/idiomatic-rust
 
-
 ## Youtube
+
 1. Jon Gjengset: https://www.youtube.com/@jonhoo
 2. Logan Smith: https://www.youtube.com/@_noisecode
 3. Jeremy Chone: https://www.youtube.com/@JeremyChone
@@ -58,17 +56,17 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 9. Code to the Moon: https://www.youtube.com/@codetothemoon
 10. Dario: https://www.youtube.com/@dario.lencina
 
+## Project Tutorials
 
-## Project Tutorials 
 1. Pngme_book: https://jrdngr.github.io/pngme_book/
 2. Text Editor: https://flenker.blog/hecto/
 
-
 ## CLI
+
 1. Command Line Applications in Rust: https://rust-cli.github.io/book/
 
-
 ## Web
+
 1. Tokio: https://tokio.rs/tokio/tutorial [completed hello tokio]
 2. ### Axum
    1. Complete Axum Overview: https://masteringbackend.com/posts/axum-framework#complete-axum-overview
@@ -79,19 +77,18 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 5. Zero To Production In Rust (book with actix web)
 6. Programming WebAssembly With Rust (book)
 
-
 ## Embedded
+
 1. Embedded book: https://doc.rust-lang.org/stable/embedded-book/
 2. Microcontrollers through Rust: https://docs.rust-embedded.org/discovery/microbit/
 
-
 ## Communities
+
 1. BD Rust Group: https://www.facebook.com/groups/rustdevelopersbangladesh
 2. Awesome Rust Mentors: https://rustbeginners.github.io/awesome-rust-mentors/
 3. Reddit Rust: https://www.reddit.com/r/rust/
 4. Reddit Learn Rust: https://www.reddit.com/r/learnrust/
 
-
 ## Git
-1. Git From Bottom Up: https://jwiegley.github.io/git-from-the-bottom-up/ [completed introduction]
 
+1. Git From Bottom Up: https://jwiegley.github.io/git-from-the-bottom-up/ [completed introduction]
