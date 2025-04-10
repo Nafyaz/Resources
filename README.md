@@ -88,7 +88,8 @@ Here I am listing all the Rust resources that I found over internet. I am adding
 ## Communities
 1. BD Rust Group: https://www.facebook.com/groups/rustdevelopersbangladesh
 2. Awesome Rust Mentors: https://rustbeginners.github.io/awesome-rust-mentors/
-3. Reddit Learn Rust: https://www.reddit.com/r/learnrust/
+3. Reddit Rust: https://www.reddit.com/r/rust/
+4. Reddit Learn Rust: https://www.reddit.com/r/learnrust/
 
 
 ## Git
