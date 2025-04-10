@@ -1,6 +1,6 @@
 ## Rust In General
 
-1. Rust Book: https://doc.rust-lang.org/book/ [completed 14]
+1. Rust Book: https://doc.rust-lang.org/book/ [completed 15; except for 15.4, 15.5, 15.6]
 2. Rustlings: https://github.com/rust-lang/rustlings [completed 18]
 3. Aalto's Rust Course: https://fitech101.aalto.fi/programming-languages/rust/ [completed 9]
 4. Rust By Practice: https://practice.course.rs/
