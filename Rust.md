@@ -77,6 +77,12 @@
 5. Zero To Production In Rust (book with actix web)
 6. Programming WebAssembly With Rust (book)
 
+## Database
+
+1. sqlx: https://github.com/launchbadge/sqlx
+2. clorinde: https://github.com/halcyonnouveau/clorinde
+3. Diesel ORM: https://github.com/diesel-rs/diesel
+
 ## Embedded
 
 1. Embedded book: https://doc.rust-lang.org/stable/embedded-book/
