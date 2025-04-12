@@ -55,6 +55,7 @@
 8. Brooks Builds (brookzerker): https://www.youtube.com/@BrooksBuilds
 9. Code to the Moon: https://www.youtube.com/@codetothemoon
 10. Dario: https://www.youtube.com/@dario.lencina
+11. Ardan Labs: https://www.youtube.com/@ardanlabs
 
 ## Project Tutorials
 
