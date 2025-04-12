@@ -33,6 +33,7 @@
 30. Rust Standard Library: https://doc.rust-lang.org/stable/std/
 31. Advanced Rust Testing: https://rust-exercises.com/advanced-testing/
 32. Rust telemetry workshop: https://rust-exercises.com/telemetry/
+33. TMS Developer Blog: https://tms-dev-blog.com/
 
 ## Other Collections
 
@@ -45,17 +46,25 @@
 
 ## Youtube
 
+Channels
+
 1. Jon Gjengset: https://www.youtube.com/@jonhoo
 2. Logan Smith: https://www.youtube.com/@_noisecode
 3. Jeremy Chone: https://www.youtube.com/@JeremyChone
-4. Trevor Sullivan: https://www.youtube.com/@TrevorSullivan/playlists
-5. Mithradates: https://www.youtube.com/@mithradates
-6. Shoaib Jahangir: https://www.youtube.com/@Sohaib_jahangir
-7. Lets Get Rusty: https://www.youtube.com/@letsgetrusty
-8. Brooks Builds (brookzerker): https://www.youtube.com/@BrooksBuilds
-9. Code to the Moon: https://www.youtube.com/@codetothemoon
-10. Dario: https://www.youtube.com/@dario.lencina
-11. Ardan Labs: https://www.youtube.com/@ardanlabs
+4. Mithradates: https://www.youtube.com/@mithradates
+5. Lets Get Rusty: https://www.youtube.com/@letsgetrusty
+6. Brooks Builds (brookzerker): https://www.youtube.com/@BrooksBuilds
+7. Code to the Moon: https://www.youtube.com/@codetothemoon
+8. Dario: https://www.youtube.com/@dario.lencina
+9. Ardan Labs: https://www.youtube.com/@ardanlabs
+
+Playlists
+
+1.  Trevor Sullivan: https://www.youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL
+
+Great Videos
+
+1. Visualizing memory layout of Rust's data types: https://www.youtube.com/watch?v=7_o-YRxf_cc
 
 ## Project Tutorials
 
@@ -68,15 +77,9 @@
 
 ## Web
 
-1. Tokio: https://tokio.rs/tokio/tutorial [completed hello tokio]
-2. ### Axum
-   1. Complete Axum Overview: https://masteringbackend.com/posts/axum-framework#complete-axum-overview
-   2. Introduction to Axum: https://www.youtube.com/playlist?list=PLrmY5pVcnuE-_CP7XZ_44HN-mDrLQV4nS
-   3. Rust Axum Full Course: https://www.youtube.com/watch?v=XZtlD_m59sM
-3. Quinn: https://quinn-rs.github.io/quinn/networking-introduction.html
-4. Web Assembly: https://rustwasm.github.io/docs/book/
-5. Zero To Production In Rust (book with actix web)
-6. Programming WebAssembly With Rust (book)
+1. Web Assembly: https://rustwasm.github.io/docs/book/
+2. Zero To Production In Rust (book with actix web)
+3. Programming WebAssembly With Rust (book)
 
 ## Database
 
