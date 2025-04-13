@@ -10,7 +10,7 @@ Platforms: Web, [Android app, ioS app, Discord bot, Telegram bot, browser extens
 
 Domain: Cloudflare, [Porkbun, Namecheap, Duck Duck Go]
 
-Hosting: [Sst, Vercel, Netlify, Fly.io, DigitalOcean, Google GCP, other vps companies]
+Hosting: AWS, [Sst, Vercel, Netlify, Fly.io, DigitalOcean, Google GCP, other vps companies]
 
 Frontend: SvelteKit, [React, Nextjs, React Native, Remix.run],
 
