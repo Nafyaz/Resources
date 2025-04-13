@@ -34,6 +34,7 @@
 31. Advanced Rust Testing: https://rust-exercises.com/advanced-testing/
 32. Rust telemetry workshop: https://rust-exercises.com/telemetry/
 33. TMS Developer Blog: https://tms-dev-blog.com/
+34. Easy Rust: https://fongyoong.github.io/easy_rust/
 
 ## Other Collections
 

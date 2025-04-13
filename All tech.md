@@ -4,6 +4,10 @@ Project Management: Linear, [Jira, Github issues, Trello]
 
 Platforms: Web, [Android app, ioS app, Discord bot, Telegram bot, browser extension]
 
+**Desktop:** Tauri, [ElectrionJs, Lynx, QT, Flutter]
+
+**Mobile:** Lynx, [Tauri, Flutter, React Native]
+
 Domain: Cloudflare, [Porkbun, Namecheap, Duck Duck Go]
 
 Hosting: [Sst, Vercel, Netlify, Fly.io, DigitalOcean, Google GCP, other vps companies]
