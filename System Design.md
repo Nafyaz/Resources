@@ -24,12 +24,13 @@
    3. AWS Architecture Blog: https://aws.amazon.com/blogs/architecture/
    4. Google Cloud Blog: https://cloud.google.com/blog
    5. The Netflix Tech Blog: https://netflixtechblog.com/
-   6. https://engineering.fb.com
-   7. https://www.linkedin.com/blog/engineering
-   8. https://www.uber.com/en-CA/blog/
-   9. https://medium.com/pinterest-engineering
-   10. https://eng.lyft.com
-   11. https://instagram-engineering.com
-   12. https://medium.com/airbnb-engineering
-   13. https://stripe.com/blog/engineering
-   14. https://www.databricks.com/blog/category/engineering
+   6. Meta: https://engineering.fb.com
+   7. LinkedIn: https://www.linkedin.com/blog/engineering
+   8. Uber: https://www.uber.com/en-CA/blog/
+   9. Pinterest: https://medium.com/pinterest-engineering
+   10. Lyft: https://eng.lyft.com
+   11. Instagram: https://instagram-engineering.com (only old posts are here)
+   12. Airbnb: https://medium.com/airbnb-engineering
+   13. Stripe: https://stripe.com/blog/engineering
+   14. Databricks: https://www.databricks.com/blog/category/engineering
+   15. X: https://blog.x.com/engineering
